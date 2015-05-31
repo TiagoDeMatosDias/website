@@ -1,0 +1,76 @@
+/*1st tab*/
+
+body{
+    background-image: url("logotd.png");
+    background-repeat: no-repeat;   
+    background-position: center;
+    background-attachment: fixed;
+    background-color:  #f1f7fb;
+}
+
+.header {    
+    position: fixed;
+    background:rgba(154,197,219,0.5);
+    border:1px solid rgba(0,0,0,0.5);
+    width:98%;
+    height:50px;
+    margin-bottom: 10px;
+}
+
+.logo{
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+.hdr1{
+    position: absolute;
+    top: 15px;
+    left: 45px;
+    
+    font-family: "roboto";
+    font-size: 20px;
+    color: #333333;
+}
+
+.hdr2{
+    position: absolute;
+    top: 15px;
+    left: 66%;
+     font-family: "roboto";
+    font-size: 16px;
+    
+    color: #333333;
+    
+}
+
+.hdr3{
+    position: absolute;
+    top: 35px;
+    left: 75%;
+     font-family: "roboto";
+    font-size: 12px;
+     color: #474747;
+}
+
+
+.content {    
+    position: absolute;
+    top: 13%;
+    border:1px solid #CCC;
+    width:20%;
+    height:80%;
+    background: rgba(154,197,219,0.5);
+}
+
+#link{
+    padding-left: 15px;
+     font-family: "roboto";
+    font-size: 15px;
+    
+}
+
+#text{
+    padding-left: 15px;
+    font-family: "roboto";
+    font-size: 15px;
+}
