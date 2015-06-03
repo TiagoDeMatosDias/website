@@ -1,11 +1,8 @@
 /*1st tab*/
 
 body{
-<<<<<<< HEAD
-    background-image: url("logo/background.png");
-=======
+
     background-image: url("background.png");
->>>>>>> origin/master
     background-repeat: repeat;   
     background-position: center;
     background-attachment: fixed;
@@ -58,23 +55,13 @@ body{
 
 
 .content {    
+    
+    margin: 0;
+    background: yellow;
     position: absolute;
-    top: 13%;
-    border:1px solid #CCC;
-    width:20%;
-    height:80%;
-    background: rgba(154,197,219,0.5);
-}
-
-#link{
-    padding-left: 15px;
-     font-family: "roboto";
-    font-size: 15px;
+    top: 30%;
+    left: 38%;
+   
     
 }
 
-#text{
-    padding-left: 15px;
-    font-family: "roboto";
-    font-size: 15px;
-}
