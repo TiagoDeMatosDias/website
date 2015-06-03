@@ -1,7 +1,11 @@
 /*1st tab*/
 
 body{
+<<<<<<< HEAD
     background-image: url("logo/background.png");
+=======
+    background-image: url("background.png");
+>>>>>>> origin/master
     background-repeat: repeat;   
     background-position: center;
     background-attachment: fixed;
